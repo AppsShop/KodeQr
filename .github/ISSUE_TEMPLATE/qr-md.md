@@ -1,7 +1,7 @@
 ---
 name: Qr.md
 about: Qr kode apps
-title: ''
+title: '[Download](https://ibuildapp.com/test-your-app.php?f71ace694c&code=83CFJ8&no_redirect)'
 labels: bug, good first issue
 assignees: Sub-Olahoop
 
