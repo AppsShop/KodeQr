@@ -11,3 +11,7 @@ KodeQr Bantuan Apk software
 ##FRE DOWNLOAD ##
 
 [DOWNLOAD DI SINI](https://itunes.apple.com/en/app/id411206394?mt=8)
+
+#DEVELOPED LICENSE
+
+[About License](https://github.com/AppsShop/KodeQr/blob/master/LICENSE.MD)
