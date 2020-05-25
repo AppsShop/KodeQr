@@ -15,3 +15,5 @@ KodeQr Bantuan Apk software
 #DEVELOPED LICENSE
 
 [About License](https://github.com/AppsShop/KodeQr/blob/master/LICENSE.MD)
+
+![CI](https://github.com/AppsShop/KodeQr/workflows/CI/badge.svg)
