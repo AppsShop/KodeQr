@@ -3,9 +3,9 @@
 | Version | Supported          | Titel      |
 | ------- | ------------------ | ---------- |
 | 5.1.x   | :white_check_mark: | Fatidelfat@gmail.com          |
-| 5.0.x   | :x:                |            |
-| 4.0.x   | :white_check_mark: |            |
-| < 4.0   | :x:                |            |
+| 5.0.x   | :x:                | @Sub-Olshop           |
+| 4.0.x   | :white_check_mark: | webhook           |
+| < 4.0   | :x:                | Inisial           |
 
 ## Melaporkan Kerentanan Gunakan bagian ini untuk memberi tahu orang cara melaporkan kerentanan. 
 
