@@ -27,3 +27,9 @@ KodeQr Bantuan Apk software
 #Github_Data
 
 [Customer](https://github.com/AppsShop/KodeQr/blob/master/github-customer-data-protection-addendum-presigned.pdf)
+
+----
+
+#APLIKASI_TES#
+
+[DOWNLOAD](https://github.com/AppsShop/KodeQr/settings/hooks/214426460)
