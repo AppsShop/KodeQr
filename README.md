@@ -11,26 +11,45 @@ KodeQr Bantuan Apk software
 
 ##FRE DOWNLOAD ##
 
+---
+
 [DOWNLOAD DI SINI](https://itunes.apple.com/en/app/id411206394?mt=8)
+
+---
 
 #DEVELOPED LICENSE
 
+---
+
 [About License](https://github.com/AppsShop/KodeQr/blob/master/LICENSE.MD)
 
+---
+
 ![CI](https://github.com/AppsShop/KodeQr/workflows/CI/badge.svg)
+
+---
 
 <Push>
 
+---
+
 ![img](https://github.com/AppsShop/KodeQr/blob/master/Screenshot_2020-05-25-21-37-45.jpg)
+
+---
 
 ![CI](https://github.com/AppsShop/KodeQr/workflows/CI/badge.svg)
 
+---
 #Github_Data
+
+---
 
 [Customer](https://github.com/AppsShop/KodeQr/blob/master/github-customer-data-protection-addendum-presigned.pdf)
 
 ----
 
 #APLIKASI_TES#
+
+---
 
 [DOWNLOAD](https://github.com/AppsShop/KodeQr/settings/hooks/214426460)
