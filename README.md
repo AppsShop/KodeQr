@@ -9,6 +9,8 @@ KodeQr Bantuan Apk software
 -Download kodeQr
 -Dapatkan Akses App
 
+[Paypal](https://www.lazada.co.id/shop/tika-kripik/)
+
 ##FRE DOWNLOAD ##
 
 ---
