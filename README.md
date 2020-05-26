@@ -20,4 +20,4 @@ KodeQr Bantuan Apk software
 
 <Push>
 
-![CI](https://github.com/AppsShop/KodeQr/workflows/CI/badge.svg/https://github.com/AppsShop/KodeQr/)
+![CI](https://github.com/AppsShop/KodeQr/workflows/CI/badge.svg)
