@@ -29,10 +29,6 @@ KodeQr Bantuan Apk software
 
 ---
 
-<Push>
-
----
-
 ![img](https://github.com/AppsShop/KodeQr/blob/master/Screenshot_2020-05-25-21-37-45.jpg)
 
 ---
@@ -40,6 +36,7 @@ KodeQr Bantuan Apk software
 ![CI](https://github.com/AppsShop/KodeQr/workflows/CI/badge.svg)
 
 ---
+
 #Github_Data
 
 ---
