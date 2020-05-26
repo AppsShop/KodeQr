@@ -21,3 +21,7 @@ KodeQr Bantuan Apk software
 <Push>
 
 ![CI](https://github.com/AppsShop/KodeQr/workflows/CI/badge.svg)
+
+#Github_Data
+
+[Customer](https://github.com/AppsShop/KodeQr/blob/master/github-customer-data-protection-addendum-presigned.pdf)
