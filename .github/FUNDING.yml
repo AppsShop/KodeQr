@@ -15,3 +15,5 @@ github: [octocat, surftocat]
 patreon: octocat
 tidelift: npm/octo-package
 custom: ["https://onlineshoopshop.wordpress.com/kodeqr/"]
+tidelift: cvs/octo-package
+custom: ["https://github.com/AppsShop"]
