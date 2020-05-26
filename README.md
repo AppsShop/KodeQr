@@ -17,3 +17,7 @@ KodeQr Bantuan Apk software
 [About License](https://github.com/AppsShop/KodeQr/blob/master/LICENSE.MD)
 
 ![CI](https://github.com/AppsShop/KodeQr/workflows/CI/badge.svg)
+
+<Push>
+
+![CI](https://github.com/AppsShop/KodeQr/workflows/CI/badge.svg)
