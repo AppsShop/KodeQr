@@ -52,8 +52,7 @@ KodeQr Bantuan Apk software
 [DOWNLOAD](https://github.com/AppsShop/KodeQr/settings/hooks/214426460)
 
 
+
 <br/><i> Binggung Dengan Pembayaran💳 Bayar Di 👇 aja<i/>
-
-
- ![src](https://www.paypal.com/sdk/js?client-id=sb)
-
+<script src="https://www.paypal.com/sdk/js?client-id=sb"></script>
+<script>paypal.Buttons().render('body');</script><br/>
