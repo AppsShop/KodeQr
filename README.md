@@ -27,6 +27,7 @@ KodeQr Bantuan Apk software
 
 ---
 
+![Docker Image CI](https://github.com/AppsShop/KodeQr/workflows/Docker%20Image%20CI/badge.svg)
 ![CI](https://github.com/AppsShop/KodeQr/workflows/CI/badge.svg)
 
 ---
