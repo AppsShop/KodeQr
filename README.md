@@ -33,7 +33,7 @@ KodeQr Bantuan Apk software
 ---
 
 ![img](https://github.com/AppsShop/KodeQr/blob/master/Screenshot_2020-05-25-21-37-45.jpg)
-
+![CI](https://github.com/AppsShop/KodeQr/workflows/CI/badge.svg?branch=Sub-Olahoop-patch-1&event=create)
 ---
 
 ![CI](https://github.com/AppsShop/KodeQr/workflows/CI/badge.svg)
