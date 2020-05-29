@@ -19,3 +19,25 @@ tidelift: cvs/octo-package
 custom: ["https://github.com/AppsShop"]
 tidelift: cvs/lazada-id
 custom: ["https://www.lazada.co.id/shop/tika-kripik/"]
+
+----
+
+From f0a63026be505da7349af2375b8955eb3cd9353a Mon Sep 17 00:00:00 2001
+From: Tikha <64693040+Sub-Olahoop@users.noreply.github.com>
+Date: Sat, 30 May 2020 00:30:16 +0800
+Subject: [PATCH] Update FUNDING.yml
+
+---
+ .github/FUNDING.yml | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/.github/FUNDING.yml b/.github/FUNDING.yml
+index cfff2ad..247306d 100644
+--- a/.github/FUNDING.yml
++++ b/.github/FUNDING.yml
+@@ -17,3 +17,5 @@ tidelift: npm/octo-package
+ custom: ["https://onlineshoopshop.wordpress.com/kodeqr/"]
+ tidelift: cvs/octo-package
+ custom: ["https://github.com/AppsShop"]
++tidelift: cvs/lazada-id
++custom: ["https://www.lazada.co.id/shop/tika-kripik/"]
